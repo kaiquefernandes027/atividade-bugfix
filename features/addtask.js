@@ -13,4 +13,4 @@
             renderTasks();
             updateStats();
         }
-        // bug-js-form: fix passo 1
+        // bug-js-form: fix passo 2
